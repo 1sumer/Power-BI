@@ -29,9 +29,5 @@ Welcome to my collection of Power BI projects! This repository showcases a range
 ## 🤝 Contributing
 
 - Contributions are welcome! Feel free to fork the repository, make enhancements, or add new projects. Submit a pull request to share your improvements.
-
-## 📝 License
-
-- This project is licensed under the MIT License. See the LICENSE file for details.
   
 Replace `Sumer Pasha` and `[Power-BI](https://github.com/1sumer/Power-BI)` with your actual GitHub username and repository name. Adjust any details to better fit your specific projects or personal preferences.
