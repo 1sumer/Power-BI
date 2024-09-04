@@ -3,8 +3,9 @@
 This repository contains a comprehensive sales analysis dashboard for Euromart. The dashboard provides insights into various sales metrics and trends over time, helping stakeholders make informed decisions.
 
 ## Dashboard Overview
-[Euromart Sales Analysis](Euromart/Euromart Sales Analysis.jpg)
-[Euromart Sales Analysis](Euromart/Euromart sales Analysis1.jpg)
+![Euromart Sales Analysis]('1sumer/Power-BI/Euromart/Euromart Sales Analysis.jpg')
+
+![Euromart Sales Analysis](1sumer/Power-BI/Euromart/Euromart sales Analysis1.jpg)
 
 The dashboard includes the following sections:
 
