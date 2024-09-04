@@ -34,11 +34,10 @@ This project presents an interactive analysis of the world population, providing
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone <repository-url>`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone <https://github.com/1sumer/Power-BI/tree/main/Population>`.
 2. **Access the Dashboard**: Open the Power BI file to explore the interactive dashboard.
 3. **Explore Filters**: Use the available filters to customize the data view according to your needs.
 
 ## Dataset
 
-The dataset used in this analysis includes historical population data categorized by country, year, gender, and age group. The source of the data is [mention the data source if available].
-
+The dataset used in this analysis includes historical population data categorized by country, year, gender, and age group.

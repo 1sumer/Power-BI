@@ -38,14 +38,10 @@ This project focuses on the analysis of employee attrition, offering a comprehen
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone <repository-url>`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone <https://github.com/1sumer/Power-BI/tree/main/HR%20Data%20Analysis>`.
 2. **Access the Dashboard**: Open the Power BI file to explore the interactive dashboard.
 3. **Explore Filters**: Use the available filters to delve deeper into specific areas of interest within the HR data.
 
 ## Dataset
 
-The dataset used in this analysis includes employee data, covering aspects such as age, department, education, gender, job role, satisfaction levels, and attrition rates. The source of the data is [mention the data source if available].
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+The dataset used in this analysis includes employee data, covering aspects such as age, department, education, gender, job role, satisfaction levels, and attrition rates.

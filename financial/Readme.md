@@ -35,6 +35,6 @@ This dashboard is ideal for:
 
 ## How to Use
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone <repository-url>`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone <https://github.com/1sumer/Power-BI/tree/main/financial>`.
 2. **Access the Dashboard**: Open the Power BI file to explore the interactive dashboard.
 3. **Explore Filters**: Use the available filters to customize the data view according to your needs.
