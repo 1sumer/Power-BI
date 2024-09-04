@@ -4,7 +4,7 @@ This project focuses on the analysis of employee attrition, offering a comprehen
 
 ## Dashboard Overview
 
-![HR Data Analysis](HR Data Analysis/Hr Analysis.jpg)
+![HR Data Analysis](https://github.com/1sumer/Power-BI/blob/main/HR%20Data%20Analysis/Hr%20Analysis.jpg)
 
 - **Overall Employee Metrics**: 
   - Total Employees: 1,470

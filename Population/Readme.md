@@ -4,7 +4,7 @@ This project presents an interactive analysis of the world population, providing
 
 ## Dashboard Overview
 
-![World Population Analysis](Population/World Population Analysis.jpg)
+![World Population Analysis](https://github.com/1sumer/Power-BI/blob/main/Population/World%20Population%20Analysis.jpg)
 
 - **Global Population Overview**: The top section displays the total male and female population, allowing users to filter by age category and region with country.
   

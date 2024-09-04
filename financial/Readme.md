@@ -4,7 +4,7 @@ This repository contains a comprehensive financial data analysis dashboard. The 
 
 ## Dashboard Overview
 
-![Financial Data Analysis](financial/Financial Analysis.jpg)
+![Financial Data Analysis](https://github.com/1sumer/Power-BI/blob/main/financial/Financial%20Analysis.jpg)
 
 The dashboard includes the following sections:
 
